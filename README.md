@@ -322,7 +322,3 @@ The model is evaluated using:
 - Explainable AI for risk attribution
 
 ---
-
-## License
-
-This project is intended for academic and research purposes. Please refer to the LICENSE file for licensing information.
