@@ -117,34 +117,7 @@ The CRIS-DSSM framework follows the complete pipeline below:
 
 ---
 
-## Mathematical Model
 
-### State Equation
-
-\[
-Z_t = \phi Z_{t-1} + \beta S_t + \eta_t
-\]
-
-where:
-
-- \(Z_t\): Hidden market risk state
-- \(S_t\): Sentiment shock
-- \(\phi\): State persistence
-- \(\beta\): Sentiment impact coefficient
-
-### Observation Equation
-
-\[
-Y_t = HZ_t + \epsilon_t
-\]
-
-where:
-
-- \(Y_t\): Observed market volatility
-- \(H\): Observation matrix
-- \(\epsilon_t\): Measurement noise
-
----
 
 ## Dataset
 
